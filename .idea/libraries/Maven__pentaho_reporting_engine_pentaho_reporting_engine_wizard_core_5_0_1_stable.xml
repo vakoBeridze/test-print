@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho-reporting-engine:pentaho-reporting-engine-wizard-core:5.0.1-stable">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-reporting-engine/pentaho-reporting-engine-wizard-core/5.0.1-stable/pentaho-reporting-engine-wizard-core-5.0.1-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-reporting-engine/pentaho-reporting-engine-wizard-core/5.0.1-stable/pentaho-reporting-engine-wizard-core-5.0.1-stable-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-reporting-engine/pentaho-reporting-engine-wizard-core/5.0.1-stable/pentaho-reporting-engine-wizard-core-5.0.1-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

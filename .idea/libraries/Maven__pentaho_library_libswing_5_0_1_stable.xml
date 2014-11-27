@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho-library:libswing:5.0.1-stable">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libswing/5.0.1-stable/libswing-5.0.1-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libswing/5.0.1-stable/libswing-5.0.1-stable-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libswing/5.0.1-stable/libswing-5.0.1-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
